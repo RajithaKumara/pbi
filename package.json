@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@hnluu8/vue-redoc-wrapper": "^0.1.15",
+    "@redocly/openapi-cli": "^1.0.0-beta.95",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "null": "^2.0.0",
+    "puppeteer": "^20.9.0",
+    "redoc": "^2.0.0",
+    "vitepress": "^1.0.0-beta.5"
+  }
+}

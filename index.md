@@ -1,0 +1,3 @@
+# Introduction
+
+Welcome to the OrangeHRM REST API documentation! This comprehensive guide provides an overview of the OrangeHRM API, intended to enable seamless access to OrangeHRM data for Business Intelligence (BI) tools. Developers and BI specialists can leverage this API to interact programmatically with OrangeHRM system, empowering them to create insightful reports and dashboards effortlessly. Whether you are building reports, conducting data analysis, or creating visually appealing dashboards, the OrangeHRM REST API empowers you to harness the power of your HR data effectively. Let's explore the API's functionalities together in the subsequent sections.
